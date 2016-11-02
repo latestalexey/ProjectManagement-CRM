@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.2">
+	<Item id="b43dfe45-a6b0-422b-a450-072f54aa820f">
+		<Name>ЛичнаяВстреча</Name>
+		<Code>000000002</Code>
+		<Description>Личная встреча</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="ae0cb488-5f0e-4209-8cf1-1f016f02b30f">
+		<Name>Прочее</Name>
+		<Code>000000005</Code>
+		<Description>Прочее</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="682c82df-a15c-4a4d-bab5-a6ac73a425b0">
+		<Name>СообщениеSMS</Name>
+		<Code>000000004</Code>
+		<Description>Сообщение SMS</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="8f2e6826-318f-452a-b30b-17d45f6ffb68">
+		<Name>ТелефонныйЗвонок</Name>
+		<Code>000000001</Code>
+		<Description>Телефонный звонок</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="15ad1035-7502-449e-b6bc-0a927aaccac9">
+		<Name>ЭлектронноеПисьмо</Name>
+		<Code>000000003</Code>
+		<Description>Электронное письмо</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
